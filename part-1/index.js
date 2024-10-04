@@ -5,5 +5,3 @@ const FirstComponent = () => {
     </div>
   );
 };
-
-ReactDOM.render(<FirstComponent />, document.getElementById("root"));
